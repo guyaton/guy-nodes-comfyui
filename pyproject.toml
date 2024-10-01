@@ -9,6 +9,6 @@ Repository = "https://github.com/guyaton/guy-nodes-comfyui"
 #  Used by Comfy Registry https://comfyregistry.org
 
 [tool.comfy]
-PublisherId = ""
+PublisherId = "guyaton"
 DisplayName = "guy-nodes-comfyui"
 Icon = ""
