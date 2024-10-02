@@ -10,6 +10,8 @@ This node is for knowing the desired output images sizes and reverse engineering
 3. The CLIP Width & Height based on the input scale
 4. a ratio for your Upscaler. 
 
+![alt text](images/Output.png)
+
 This is all based on this repo: https://github.com/marhensa/sdxl-recommended-res-calc who created a great tool and I just enhanced it for my needs. 
 
 # Manual Installation
